@@ -1,6 +1,6 @@
 # React Native + Firebase E-commerce app
 
-The app lets an user create an account, verifies their email, login to their account, place products in a cart, order products, view orders made, add own products to sell, edit account details and logout.
+The app lets an user create an account, verifies their email, login to their account, place products in a cart, order products, view orders made, add own products to sell, edit account details and logout. The app will also send push notifications to sellers when an order is placed with their product.
 
 ## Requirements
 - See package.json
